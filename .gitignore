@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.pdb
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.log
+*.tlog
+/Results/
+backup.reg
